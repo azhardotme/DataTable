@@ -147,7 +147,11 @@
 <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.11.4/datatables.min.js"></script>
 <script>
     $(document).ready( function () {
-    $('#myTable').DataTable();
+    $('#myTable').DataTable({
+        'paging':true,
+        'info':true,
+        'ordering':true
+    });
 } );
 </script>
 
