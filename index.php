@@ -10,7 +10,7 @@
 
 <div class="container">
     <div class="row">
-        <table class="table" id="mytable">
+        <table class="table" id="myTable">
             <thead>
                 <th>Name</th>
                 <th>Email</th>
@@ -22,6 +22,120 @@
                 <th>Phone</th>
             </tfoot>
             <tbody>
+        <tr>
+            <td>Alice</td>
+            <td>alice@gmail.com</td>
+            <td>9565465565</td>
+        </tr>
+        <tr>
+            <td>Alice</td>
+            <td>alice@gmail.com</td>
+            <td>9565465565</td>
+        </tr>
+        <tr>
+            <td>Alice</td>
+            <td>alice@gmail.com</td>
+            <td>9565465565</td>
+        </tr>
+        <tr>
+            <td>Alice</td>
+            <td>alice@gmail.com</td>
+            <td>9565465565</td>
+        </tr>
+        <tr>
+            <td>Alice</td>
+            <td>alice@gmail.com</td>
+            <td>9565465565</td>
+        </tr>
+        <tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr><tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
+<tr>
+    <td>Alice</td>
+    <td>alice@gmail.com</td>
+    <td>9565465565</td>
+</tr>
 
             </tbody>
         </table>
@@ -33,7 +147,7 @@
 <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.11.4/datatables.min.js"></script>
 <script>
     $(document).ready( function () {
-    $('#mytable').DataTable();
+    $('#myTable').DataTable();
 } );
 </script>
 
